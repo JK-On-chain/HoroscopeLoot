@@ -132,6 +132,7 @@ you can get this ABI to get game data from NFT tokenId.
         "stateMutability": "view",
         "type": "function"
     }
-]    
+
     
     
+# JK

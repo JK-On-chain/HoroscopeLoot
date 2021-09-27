@@ -11,7 +11,7 @@ Smart Contract:
 # How to play: 
 you can get this ABI to get game data from NFT tokenId.
 
-[
+
     {
         "inputs": [{
             "internalType": "uint256",
@@ -117,7 +117,6 @@ you can get this ABI to get game data from NFT tokenId.
         "stateMutability": "view",
         "type": "function"
     },
-    	
     {
         "inputs": [{
             "internalType": "uint256",
